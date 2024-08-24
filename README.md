@@ -1,2 +1,4 @@
 # TG-Bot-RecSys
-Telegram bot recommendation system for cashbacks from Tinkoff partners
+Telegram-бот, реализующий рекомендательную систему Tinkoff-кэшбэк с помощью методов машинного обучения. 
+
+Дополнительная образовательная программа от университета Сириус и Тинькофф-образования.
